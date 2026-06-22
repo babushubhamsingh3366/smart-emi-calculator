@@ -1,16 +1,80 @@
-# React + Vite
+# Smart EMI Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive EMI Calculator built using React and Vite. This tool helps users quickly calculate their monthly EMI, total interest payable, and total repayment amount for loans.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Calculate Monthly EMI
+* Calculate Total Interest Payable
+* Calculate Total Repayment Amount
+* Simple and User-Friendly Interface
+* Responsive Design for Mobile and Desktop
+* Instant Results
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* Vite
+* JavaScript
+* CSS3
+* Vercel (Deployment)
 
-## Expanding the ESLint configuration
+## Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 Add your Vercel deployment URL here
+
+## GitHub Repository
+
+🔗 https://github.com/babushubhamsingh3366/smart-emi-calculator
+
+## How EMI is Calculated
+
+EMI is calculated using the standard formula:
+
+EMI = P × R × (1 + R)^N / ((1 + R)^N − 1)
+
+Where:
+
+* P = Loan Amount
+* R = Monthly Interest Rate
+* N = Loan Tenure in Months
+
+## Installation
+
+Clone the repository:
+
+git clone https://github.com/babushubhamsingh3366/smart-emi-calculator.git
+
+Navigate to the project folder:
+
+cd smart-emi-calculator
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+npm run dev
+
+## Project Requirements Completed
+
+* Working EMI Calculator
+* Accurate EMI Calculation
+* Responsive User Interface
+* "Built for Digital Heroes" Button
+* Live Deployment on Vercel
+* Public GitHub Repository
+* Portfolio Ready Project
+
+## Author
+
+Shubham Kumar
+
+Email: [your-email@example.com](mailto:your-email@example.com)
+
+## Built For
+
+Digital Heroes Trial Task
+
+https://digitalheroesco.com
