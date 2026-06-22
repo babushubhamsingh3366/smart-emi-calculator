@@ -71,7 +71,7 @@ npm run dev
 
 Shubham Kumar
 
-Email: [your-email@example.com](mailto:shubhambr2025@example.com)
+Email: [shubhambr2025@example.com](mailto:shubhambr2025@example.com)
 
 ## Built For
 
